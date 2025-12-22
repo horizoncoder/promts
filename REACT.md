@@ -21,4 +21,4 @@ I will provide you with a React component or a snippet of JS/TS code. Your task 
 
 Here is my code:
 
-[ВСТАВЬ СВОЙ КОД СЮДА]
+
